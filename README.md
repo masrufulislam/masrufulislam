@@ -5,7 +5,7 @@
     <br>
     <h3>
       This is my corner of the coding world. Dive in and explore the open-source solutions I've built!
-      
+      <br>
       On the path to becoming a top software engineer, I'm a web developer fueled by college and independent learning.
     </h3>
   </body>
