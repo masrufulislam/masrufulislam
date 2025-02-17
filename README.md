@@ -7,7 +7,7 @@ I’m a passionate and ambitious **Web Developer** on a mission to become a top-
 ---
 
 ### 🚀 About Me
-- 💻 Currently a **Web Developer** with a focus on **Full-Stack Development**.
+- 💻 Currently a **Software Engineer** & a **Web Developer** with a focus on **Full-Stack Development** & **CyberSecurity**.
 - 🎓 A lifelong learner pursuing excellence in tech through academic study and real-world experience.
 - 🌱 Constantly evolving and improving my skills in **JavaScript**, **React**, **Node.js**, **HTML/CSS**, and more.
 - 💡 I love tackling complex problems, building robust systems, and collaborating on exciting projects.
@@ -15,11 +15,11 @@ I’m a passionate and ambitious **Web Developer** on a mission to become a top-
 ---
 
 ### 🔧 Technologies & Tools I Work With
-- **Languages:** JavaScript, TypeScript, HTML, CSS, SQL, Python
+- **Languages:** JavaScript, HTML, CSS, Python
 - **Frameworks & Libraries:** React, Node.js, Express, Bootstrap, TailwindCSS
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, Docker, VS Code, Nginx, Postman
-- **Platforms:** AWS, Heroku
+// - **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Eclipse, VS Code
+//
 
 ---
 
