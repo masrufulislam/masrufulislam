@@ -17,9 +17,8 @@ I’m a passionate and ambitious **Web Developer** on a mission to become a top-
 ### 🔧 Technologies & Tools I Work With
 - **Languages:** JavaScript, HTML, CSS, Python
 - **Frameworks & Libraries:** React, Node.js, Express, Bootstrap, TailwindCSS
-// - **Databases:** MongoDB, MySQL
+<!-- - **Databases:** MongoDB, MySQL -->
 - **Tools:** Git, GitHub, Eclipse, VS Code
-//
 
 ---
 
