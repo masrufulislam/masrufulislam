@@ -15,7 +15,7 @@ I’m a passionate and ambitious **Web Developer** on a mission to become a top-
 
 ### 🔧 Technologies & Tools I Work With 
 
-#### Language Palette 👨‍💻
+#### Language Palette 🧑🏻‍💻
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
