@@ -37,8 +37,7 @@ I’m a passionate and ambitious **Web Developer** on a mission to become a top-
 ---
 <a href="https://www.nissanusa.com/"><img src="https://img.shields.io/badge/-Nissan-C3002F?style=for-the-badge&logo=nissan&logoColor=white" height="37"/></a>
 <a href="https://www.apple.com/"><img src="https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple&logoColor=white" height="37"/></a>
-<a href="https://www.samsung.com/"><img src="https://img.io/badge/Samsung-000000?logo=samsung&logoColor=white&style=for-the-badge" height="37"/></a>
-<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/-Google_Bard-4285F4?style=for-the-badge&logo=google&logoColor=white" height="37"/></a>
+<a href="https://www.samsung.com/"><img src="https://img.shields.io/badge/-Samsung-000000?style=for-the-badge&logo=samsung&logoColor=white" height="37"/></a><a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/-Google_Bard-4285F4?style=for-the-badge&logo=google&logoColor=white" height="37"/></a>
 ---
 
 ### 📈 My GitHub Stats
