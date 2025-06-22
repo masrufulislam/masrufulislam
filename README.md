@@ -13,9 +13,8 @@ I’m a passionate and ambitious **Web Developer** on a mission to become a top-
 
 ---
 
-
 ## 🔧 Technologies & Tools I Work With
----
+
 ### Language Palette 🧑🏻‍💻
 ---
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="37"/></a>
