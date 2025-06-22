@@ -47,9 +47,7 @@ I’m a passionate and ambitious **Web Developer** on a mission to become a top-
 ---
 
 ### 🌍 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masruful-islam/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MasrufulN)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7700?style=for-the-badge&logo=wordpress&logoColor=white)](https://masrufulislam.github.io/portfolio/)
+<a href="https://www.linkedin.com/in/masruful-islam/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="37"/></a><a href="https://x.com/MasrufulN"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="37"/></a><a href="https://masrufulislam.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF7700?style=for-the-badge&logo=wordpress&logoColor=white" height="37"/></a>
 
 ---
 
